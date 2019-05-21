@@ -1,2 +1,3 @@
 # Python_PracticeProjects
-OOP practice
+To practice OOP in Python
+1. Vehicle
