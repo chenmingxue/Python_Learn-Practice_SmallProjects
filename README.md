@@ -1,4 +1,5 @@
 # Python_PracticeProjects
+(All passed test)
 To practice OOP in Python
 1. Vehicle
 2. Reverse input sentence
