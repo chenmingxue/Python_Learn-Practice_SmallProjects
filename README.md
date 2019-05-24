@@ -1,6 +1,6 @@
 # Python_PracticeProjects
-(All passed test)/n
-To practice OOP in Python
+(All have passed test)
+## To practice OOP in Python
 1. Vehicle
 2. Reverse input sentence
 3. Convert input string to upcase
