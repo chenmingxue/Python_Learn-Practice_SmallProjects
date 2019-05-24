@@ -1,11 +1,11 @@
-#Write a Python class which has two methods get_String and print_String.
-#get_String accept a string from the user and print_String print the string in upper case.
+#Write a Python class which has two methods set_String and print_String.
+#set_String accept a string from the user and print_String print the string in upper case.
 
 class ToUpperCase:
   def __init__(self, input_string="hello world"):
-    self.input_string = inputString
+    self.input_string = input_String
 
-  def get_String(self, inputString):
+  def set_String(self, inputString):  #this is setter
     self.input_string = inputString
 
   def print_String(self):
@@ -13,7 +13,7 @@ class ToUpperCase:
 
 
 if __name__ == "__main__":
-  inputString = input("Please key in your string: ")
-  toUpperString = ToUpperCase()
-  string_to_change = toUpperString.get_String(inputString)
-  print(to_UpperString.print_String())
+  input_String = input("Please key in your string: ") #variable and function use snake_to_case
+  toUpperString = ToUpperCase() #instance use camelCase
+  toUpperString.set_String(inputString)
+  print(toUpperString.print_String())
