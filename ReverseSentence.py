@@ -3,8 +3,7 @@ class ReverseSentence:
     self.sentence = sentence
 
   def reverse(self):
-    self.words = self.sentence.split(" ")
-    return " ".join(self.words[::-1])
+    return " ".join(self.sentence.split(" ")[::-1])
 
 
 if __name__ == "__main__":
