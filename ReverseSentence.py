@@ -1,5 +1,5 @@
 class ReverseSentence:
-  def __init__(self, sentence = "Hello World"):
+  def __init__(self, sentence="Hello World"):
     self.sentence = sentence
 
   def reverse(self):
@@ -8,6 +8,6 @@ class ReverseSentence:
 
 
 if __name__ == "__main__":
-  sentence=input("Please write your sentence: ")
-  reverse_sentence=ReverseSentence(sentence)
+  sentence = input("Please write your sentence: ")
+  reverse_sentence = ReverseSentence(sentence)
   print("The reversed sentence is: ", reverse_sentence.reverse())
