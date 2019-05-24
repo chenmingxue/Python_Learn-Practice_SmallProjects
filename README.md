@@ -7,3 +7,4 @@
 4. Calculate rectangle area
 5. Try_except examples
 6. Encapsulation and Inheritance 
+7. Decorator_demos
