@@ -2,7 +2,7 @@
 #get_String accept a string from the user and print_String print the string in upper case.
 
 class ToUpperCase:
-  def __init__(self, inputString="hello world"):
+  def __init__(self, input_string="hello world"):
     self.input_string = inputString
 
   def get_String(self, inputString):
@@ -14,6 +14,6 @@ class ToUpperCase:
 
 if __name__ == "__main__":
   inputString = input("Please key in your string: ")
-  to_UpperString = ToUpperCase()
-  string_to_change=to_UpperString.get_String(inputString)
+  toUpperString = ToUpperCase()
+  string_to_change = toUpperString.get_String(inputString)
   print(to_UpperString.print_String())
