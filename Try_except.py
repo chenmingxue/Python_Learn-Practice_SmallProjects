@@ -23,7 +23,7 @@ class Try_except:
 
     def f3(self):
         try:
-            print ("a")
+            print("a")
             return
         except:
             print("b")
