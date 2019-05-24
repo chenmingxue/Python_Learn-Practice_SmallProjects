@@ -15,5 +15,5 @@ class ToUpperCase:
 if __name__ == "__main__":
   input_String = input("Please key in your string: ") #variable and function use snake_to_case
   toUpperString = ToUpperCase() #instance use camelCase
-  toUpperString.set_String(inputString)
+  toUpperString.set_String(input_String)
   print(toUpperString.print_String())
