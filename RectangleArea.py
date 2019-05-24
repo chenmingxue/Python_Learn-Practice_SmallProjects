@@ -5,11 +5,11 @@ class RectangleArea:
         self.length = 0
         self.width = 0
 
-    def get_parameters(self, input_length, input_width):
+    def set_parameters(self, input_length, input_width):
         self.length = float(input_length)
         self.width = float(input_width)
 
-    def calculate_area(self):
+    def get_area(self):
         return self.length*self.width
 
 
@@ -17,5 +17,5 @@ if __name__ == "__main__":
     input_length = input("Please key in the length: ")
     input_width = input("Please key in the width: ")
     rectangle = RectangleArea()
-    rectangle.get_parameters(input_length, input_width)
-    print (rectangle.calculate_area())
+    rectangle.set_parameters(input_length, input_width)
+    print (rectangle.get_area())
