@@ -8,3 +8,4 @@
 5. Try_except examples
 6. Encapsulation and Inheritance 
 7. Decorator_demos
+8. Single Inheritance
