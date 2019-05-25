@@ -30,4 +30,3 @@ cube = Cube(length)
 print(cube.surfaceArea())
 print(cube.volume())
 print(Cube.__mro__) #this is to check method resolution order
-print('*'*20)
