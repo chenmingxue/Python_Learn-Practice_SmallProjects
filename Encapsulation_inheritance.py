@@ -42,7 +42,8 @@ class Car:
 
 class ElectricCar(Car):
     def __init__(self, num_of_wheels, seating_capacity, max_velocity, battery):
-        Car.__init__(self, num_of_wheels, seating_capacity, max_velocity)
+        #Car.__init__(self, num_of_wheels, seating_capacity, max_velocity)
+        super().__init__(num_of_wheels, seating_capacity, max_velocity) #use super()
         self.battery = battery
         self.state = ''
 
