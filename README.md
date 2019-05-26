@@ -9,3 +9,4 @@
 6. Encapsulation and Inheritance 
 7. Decorator_demos
 8. Single Inheritance
+9. Multiple Inheritance
