@@ -1,3 +1,8 @@
+#To guess a number that computer generated.
+#1. Give a range of the number (0~input) and computer will generate a random number in the range
+#2. Give a number of guess time that you can find it
+#3. Key in the guess number and computer will tell if it is too big, too small, or correct
+#4. Computer will count how many times you guess and compare to the guess time.
 import random
 
 class GuessNumber:
@@ -15,7 +20,10 @@ class GuessNumber:
 if __name__ == "__main__":
     while True:
         try:
-            given_range = int(input("please enter a number >0, for example 100: "))
+            given_range = int(input("please enter a number larger than 0 (for example 100), and computer will make a random number: "))
+            if given_range <= 0:
+                print("Please key in a number > 0")
+                continue
             break
         except:
             print("Please key in a valid number")
@@ -29,6 +37,6 @@ if __name__ == "__main__":
         answer = guessnumber.guess(input_number)
         print(answer)
     if n <= m:
-        print("You are smart!")
+        print("Great job, you are smart!")
     else:
-        print("You need to play more, you are not as smart as you think")
+        print("Good, you need to play more")
