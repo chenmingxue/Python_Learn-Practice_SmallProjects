@@ -11,3 +11,4 @@
 8. Single Inheritance
 9. Multiple Inheritance
 10. Guess number
+11. Variable_range (globle, local working range)
