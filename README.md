@@ -12,6 +12,5 @@
 9. Multiple Inheritance
 10. Guess number
 11. VariableRange (globle, local working range)
-
-## To practice algorithm in Python
 12. 15True vs 15False
+13. Abstract
