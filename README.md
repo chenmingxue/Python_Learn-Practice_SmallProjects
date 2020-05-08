@@ -2,8 +2,8 @@
 (All have passed test)
 
 ## This project is for learning functions in Python by practicing small projects.
-## Difficulty level is from basic to intermediate.
-1. Vehicle
+
+1. Vehicle class
 2. Reverse input sentence
 3. Convert input string to upcase
 4. Calculate rectangle area
@@ -15,3 +15,4 @@
 10. Guess number
 11. VariableRange (globle, local working range)
 12. Abstract_class
+13. Return self function
