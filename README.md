@@ -14,4 +14,4 @@
 9. Multiple Inheritance
 10. Guess number
 11. VariableRange (globle, local working range)
-12. Abstract
+12. Abstract_class
