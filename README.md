@@ -1,5 +1,6 @@
 # Python_PracticeProjects
 (All have passed test)
+
 ## This project is for learning functions in Python by practicing small projects.
 ## Difficulty level is from basic to intermediate.
 1. Vehicle
