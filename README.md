@@ -1,16 +1,15 @@
 # Python_PracticeProjects
 (All have passed test)
-## To practice OOP in Python
+## This project is for learning basic functions in Python by practicing smalling projects
 1. Vehicle
 2. Reverse input sentence
 3. Convert input string to upcase
 4. Calculate rectangle area
 5. Try_except examples
 6. Encapsulation and Inheritance 
-7. Decorator_demos
+7. Decorator_demo_1
 8. Single Inheritance
 9. Multiple Inheritance
 10. Guess number
 11. VariableRange (globle, local working range)
-12. 15True vs 15False
-13. Abstract
+12. Abstract
