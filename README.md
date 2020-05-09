@@ -9,7 +9,7 @@
 4. Calculate rectangle area
 5. Try_except examples
 6. Encapsulation and Inheritance 
-7. Decorator_demo_1: simple example
+7-1. Decorator_demo_1: simple example
 7-2. Decorator_demo_2: more complicated examples
 8. Single Inheritance
 9. Multiple Inheritance
