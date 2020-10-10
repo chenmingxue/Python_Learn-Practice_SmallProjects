@@ -19,4 +19,4 @@ The code is just for learning demos, so it's not like answers to practice questi
 13. Abstract_class
 14. Return self function
 15. Enclosing function
-
+16. Yield and generator
