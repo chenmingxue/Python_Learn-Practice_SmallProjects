@@ -1,7 +1,7 @@
 # Python_PracticeProjects
 (All have passed test)
 
-## This project is for learning functions in Python by practicing small projects.
+## This project is for learning functions and OOP in Python by practicing small projects.
 
 1. Vehicle class
 2. Reverse input sentence
