@@ -2,7 +2,6 @@
 (All have passed test)
 
 ## This project is for learning functions in Python by practicing small projects.
-The code is just for learning demos, so it's not like answers to practice questions.
 
 1. Vehicle class
 2. Reverse input sentence
